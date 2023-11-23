@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+G'day, I'm an Australian software developer with experience in web, game, crypto, embedded hardware, and security systems.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alignedsoftware@gmail.com](mailto:alignedsoftware@gmail.com)
