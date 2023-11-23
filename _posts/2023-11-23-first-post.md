@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FIRST
+title: First Post
 ---
 
 I've wanted to start a blog for a little while, now I've finally gone and done it. This blog will be like many other things I do, primarily for my own benefit and entertainment. Any use found by others will be a nice side-effect.
