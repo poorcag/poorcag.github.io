@@ -1,0 +1,14 @@
+---
+layout: default
+title: Stuff
+permalink: /stuff/
+---
+
+<div class="applications">
+    {% for application in site.applications %}
+        <article class="application">
+        <h1><a href="{{ site.baseurl }}{{ application.url }}">{{ application.title }}</a></h1>
+        
+        </article>
+    {% endfor %}
+</div>
