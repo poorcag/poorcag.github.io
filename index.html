@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<div class="applications">
+  {% for application in site.applications %}
+    <article class="application">
+      <h1><a href="{{ site.baseurl }}{{ application.url }}">{{ application.title }}</a></h1>
+      
+    </article>
+  {% endfor %}
+</div>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
