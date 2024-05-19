@@ -25,6 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import bmd from "./company/bmd.jpg";
+import gree from "./company/gree.png";
+import seer from "./company/seer.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +59,9 @@ export {
   shopify,
   starbucks,
   tesla,
+  bmd,
+  gree,
+  seer,
   carrent,
   jobit,
   tripguide,
